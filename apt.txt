@@ -1,0 +1,8 @@
+ffmpeg
+how to run the code 
+Open the cmd 
+cd C:\Users\MANEESHA\Downloads\your-project-folder
+set PATH=%PATH%;C:\Users\MANEESHA\Downloads\ffmpeg-8.0.1-essentials_build\ffmpeg-8.0.1-essentials_build\bin
+ffmpeg -version
+pip install -r requirements.txt
+python gradio_app.py
